@@ -168,7 +168,7 @@ main .main-content .circle img{
 
 .welcome-content h1{
     color: #95b842;
-    font-weight: 400;
+    font-weight: bold;
     text-transform: uppercase;
     padding: 0px 10px 30px 10px;
     font-size: 42px
@@ -211,7 +211,7 @@ main .main-content .circle img{
 #services .services-heading{
     color: #95b842;
     font-size: 42px !important;
-    font-weight: 400;
+    font-weight: bold;
     text-transform: uppercase;
     text-align: center;
     padding: 50px 0;
@@ -266,7 +266,7 @@ main .main-content .circle img{
     font-size: 42px;
     color: #444444;
     font-weight: 400;
-    margin-top: 30px;
+    margin-top: 50px;
 }
 
 .action-content span{
